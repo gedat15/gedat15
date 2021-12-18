@@ -15,18 +15,21 @@
 
 <p align="center">
 
-◈ 🦹 My name is Gedat 
+◈ 🦹 𝙼𝚢 𝙽𝚊𝚖𝚎 𝙸𝚜 𝙶𝚎𝚍𝚊𝚝
 
-◈ 🗣️ I am 20 years old 
+◈ 🗣️ 𝙸 𝙰𝚖 20 𝚈𝚎𝚊𝚛𝚜 𝙾𝚕𝚍 
 
-◈ 🌀 I am not programmer
+◈ 🌀 𝙸 𝙰𝚖 𝙽𝚘𝚝 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛
 
 ≪━─━─━─━─◈─━─━─━─━≫ 
 </p>
+### 𝐌𝐎𝐁𝐈𝐋𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 🎮
+<p align="center">
+  <img src="https://github.com/gedat15/gedat15/blob/main/gedatml.gif" />
+</p>
 
 
-
-### Github Stats 🔥
+### 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 🔥
 
 <p align="center"><a href="https://github.com/gedat15"><img src="https://github-readme-stats.vercel.app/api?username=gedat15&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/gedat15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedat15&theme=radical&layout=compact"></a></p> 
