@@ -25,7 +25,7 @@
 </p>
 ### 𝐌𝐎𝐁𝐈𝐋𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 🎮
 <p align="center">
-  <img src="https://github.com/gedat15/gedat15/blob/main/gedatml.gif" />
+  <img src="https://github.com/gedat15/gedat15/blob/main/gedatml.gif"></a>
 </p>
 
 
