@@ -14,7 +14,10 @@
 </div>
 
 
-### Github Stats 🚀
+### Github Stats 🔥
 
-<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api?username=gedat15&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedat15&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/gedat15"><img src="https://github-readme-stats.vercel.app/api?username=gedat15&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/gedat15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedat15&theme=radical&layout=compact"></a></p> 
+
+
+
