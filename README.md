@@ -13,6 +13,18 @@
 </p>
 </div>
 
+<p align="center">
+
+◈ 🦹 My name is Gedat 
+
+◈ 🗣️ I am 20 years old 
+
+◈ 🌀 I am not programmer
+
+≪━─━─━─━─◈─━─━─━─━≫ 
+</p>
+
+
 
 ### Github Stats 🔥
 
